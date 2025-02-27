@@ -1,0 +1,29 @@
+[33mcommit 2868cfe2e9134037ee726b156c1570dcca81f955[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Wolvye <alainsoltau@gmail.com>
+Date:   Thu Feb 27 10:41:38 2025 +0100
+
+    Initial commit of Unity project
+
+[33mcommit 49c8845c9e651311de866d9f2a7ca495567d6b02[m
+Author: Wolvye <alainsoltau@gmail.com>
+Date:   Wed Feb 26 00:34:42 2025 +0100
+
+    First script added
+
+[33mcommit 0eaa9e3624fde806c2bbf1338f81a0bd1d783356[m
+Author: Wolvye <alainsoltau@gmail.com>
+Date:   Wed Feb 26 00:28:53 2025 +0100
+
+    Bereinigt: .gitignore nachträglich angewendet
+
+[33mcommit 5ea61918836a0cd98e204140e78b7acbe5400fb1[m
+Author: Wolvye <alainsoltau@gmail.com>
+Date:   Tue Feb 25 09:38:31 2025 +0100
+
+    LearningStrike 20250225
+
+[33mcommit cdd20f9e429a935c4cb50b78b885f5d877aba200[m
+Author: Wolvye <alainsoltau@gmail.com>
+Date:   Tue Feb 25 09:33:31 2025 +0100
+
+    Added .gitignore for Unity
